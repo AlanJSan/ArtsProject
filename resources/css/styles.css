@@ -16,15 +16,15 @@ h2{
 }
 
 #brushes{
-    background-color: mediumspringgreen;
+    background-color: rgb(17, 0, 250);
 }
 
 #frames{
-    background-color: lightcoral;
+    background-color: rgb(243, 247, 11);
 }
 
 #paint{
-    background-color: skyblue;
+    background-color: rgb(238, 18, 238);
 }
 
 span{
